@@ -23,8 +23,8 @@ A simple and modern Rock Paper Scissors game built with HTML, CSS, and JavaScrip
 
 ## Preview
 <div align="center">
-  <img src="[./screenshots/game-preview.png](https://github.com/davanuroza/rock-paper-scissors-game/blob/main/image.png)" alt="Game Preview" width="600">
-  <img src="[./screenshots/game-preview.png]([https://github.com/davanuroza/rock-paper-scissors-game/blob/main/image.png](https://github.com/davanuroza/rock-paper-scissors-game/blob/main/mini%20game.jpg))" alt="Game Preview" width="600">
+  <img src="[[./screenshots/game-preview.png](https://github.com/davanuroza/rock-paper-scissors-game/blob/main/image.png)](https://github.com/davanuroza/rock-paper-scissors-game/blob/main/mini%20game.jpg)" alt="Game Preview" width="600">
+  <img src="[[./screenshots/game-preview.png]([https://github.com/davanuroza/rock-paper-scissors-game/blob/main/image.png](https://github.com/davanuroza/rock-paper-scissors-game/blob/main/mini%20game.jpg))](https://github.com/davanuroza/rock-paper-scissors-game/blob/main/mini%20game.jpg)" alt="Game Preview" width="600">
 </div>
 
 ## Credits
